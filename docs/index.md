@@ -5,6 +5,9 @@ description: "This tutorial covers two methods for clipping raster datasets from
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer: 
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2024-01-15
 permalink: "/"  #! Remove this if not the homepage
 ---
