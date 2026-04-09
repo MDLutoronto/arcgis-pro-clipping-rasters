@@ -189,5 +189,3 @@ Some alternative sources to download Digital Elevations Models:
 [**Swift Current LiDAR Project 2009 - DEM - Federal Open Data**](https://open.canada.ca/data/en/dataset/72003a79-c799-49de-b135-de5af833f029) (In the list of "Resources", choose "**Pre-packaged GeoTIF files (No linguistic component)**"
 
 [**USGS Earth Explorer**](https://earthexplorer.usgs.gov/) ("Search Criteria" - identify your area of interests; "Data Sets" - choose "Digital Elevation")
-
-Technique: [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70) | Data Format: [DEM](https://mdl.library.utoronto.ca/data-format-tutorials/dem), [Raster](https://mdl.library.utoronto.ca/data-format/raster)
