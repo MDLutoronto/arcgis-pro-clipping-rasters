@@ -49,7 +49,7 @@ Alternative sources to download DEMs are provided at the end of this tutorial.
 
 In the "Find a location" tab, search for "Toronto". Choose the "**Toronto, York, Ontario - City**" option and zoom to this selection on the map.
 
-<img src='{{ '/assets/images/clipping_rasters_in_arcgispro_001_1.png' | relative_url }}' alt='The Government of Canada's geospatial data extraction page. In the "Find a location" text box, the prompt "Toronto" has been used.' title='' width='100%' height='100%' />
+<img src='{{ '/assets/images/clipping_rasters_in_arcgispro_001_1.png' | relative_url }}' alt="The Government of Canada's geospatial data extraction page. In the 'Find a location' text box, the prompt 'Toronto' has been used." title='' width='100%' height='100%' />
 
 Then, make sure you set the clipping area to the "**Current Map Extent**". After you check this box, the Map Navigation should highlight the selected area in yellow.
 
@@ -74,7 +74,7 @@ You will be able to see the job status on the website. Usually the request is pr
 
 For the first task, search for the "**Former Municipality Boundaries**".
 
-<img src='{{ '/assets/images/clipping_rasters_in_arcgispro_005.png' | relative_url }}' alt='The City of Toronto's Open Data portal. "Former Municipality Boundaries" has been searched and is the first result seen.' title='' width='100%' height='100%' />
+<img src='{{ '/assets/images/clipping_rasters_in_arcgispro_005.png' | relative_url }}' alt="The City of Toronto's Open Data portal. 'Former Municipality Boundaries' has been searched and is the first result seen." title='' width='100%' height='100%' />
 
 Also, download the dataset with the **WGS84** coordinate system for this dataset to be consistent with the DEM we downloaded.
 
@@ -164,7 +164,7 @@ You can also zoom to the extent you wish to be working on and clip your dataset 
 
 First, zoom to the islands and port lands.
 
-<img src='{{ '/assets/images/clipping_rasters_in_arcgispro_018.png' | relative_url }}' alt='Map zoomed into the Toronto's islands and port lands.' title='' width='100%' height='100%' />
+<img src='{{ '/assets/images/clipping_rasters_in_arcgispro_018.png' | relative_url }}' alt="Map zoomed into the Toronto's islands and port lands." title='' width='100%' height='100%' />
 
 Then, right-click on the raster layer you wish to clip from. **Choose Data → Export Data...**
 
@@ -189,3 +189,5 @@ Some alternative sources to download Digital Elevations Models:
 [**Swift Current LiDAR Project 2009 - DEM - Federal Open Data**](https://open.canada.ca/data/en/dataset/72003a79-c799-49de-b135-de5af833f029) (In the list of "Resources", choose "**Pre-packaged GeoTIF files (No linguistic component)**"
 
 [**USGS Earth Explorer**](https://earthexplorer.usgs.gov/) ("Search Criteria" - identify your area of interests; "Data Sets" - choose "Digital Elevation")
+
+**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) \| **Data Format:** [DEM](https://mdlutoronto.github.io/tutorials-search/?dataFormat=DEM), [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
